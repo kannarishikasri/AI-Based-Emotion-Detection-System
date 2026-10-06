@@ -1,0 +1,7 @@
+streamlit
+deepface
+tensorflow==2.20.0
+tf-keras
+opencv-python
+pillow
+numpy
